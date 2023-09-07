@@ -5,5 +5,5 @@ Vibin'
 📝 Road to OSCP...
 💶 AI Startup
 
-Check out {my blog}(https://txaber.dev)!
+https://txaber.dev
 
